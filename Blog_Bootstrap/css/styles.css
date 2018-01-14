@@ -28,8 +28,13 @@ body{
   height: 30px;
   margin-right: 5px;
 }
-a:hover{
+
+.img-social:hover{
   background: blue;
+}
+
+.icon-img{
+  width: 30px;
 }
 
 .menu{
@@ -42,4 +47,6 @@ a:hover{
 .row-content{
   background: white;
   text-align: justify;
+  border-right: 1px solid black;
+  border-radius: 10px;
 }
