@@ -1,0 +1,42 @@
+body{
+  background: url(../img/body.png);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  min-height: 500px;
+  border-radius: 0px !important;
+  margin-bottom: 0px;
+}
+.header-style{
+  background: rgba(129, 36, 36, 0.9);
+  min-height: 10%;
+}
+
+.logo-img{
+  width: 80px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.redes-sociales {
+  margin-top: 30px;
+}
+
+.img-social {
+  width:30px;
+  height: 30px;
+  margin-right: 5px;
+}
+
+.menu{
+  width: 100%;
+}
+.nirvana-img{
+  width:50%;
+}
+
+.row-content{
+  background: white;
+  text-align: justify;
+}
