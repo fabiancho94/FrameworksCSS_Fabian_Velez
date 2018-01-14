@@ -28,6 +28,9 @@ body{
   height: 30px;
   margin-right: 5px;
 }
+a:hover{
+  background: blue;
+}
 
 .menu{
   width: 100%;
