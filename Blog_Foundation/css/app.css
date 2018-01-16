@@ -1,0 +1,27 @@
+body{
+  background: url(../img/body.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  min-height: 500px;
+}
+
+h4{
+  color: white !important;
+  margin-right: 5px !important;
+}
+
+.content-row{
+  background: rgba(147, 145, 18, 0.65);
+}
+.callout{
+  background: rgba(62, 63, 66, 0.7);
+}
+label{
+  color: white;
+}
+
+.favoritos-img{
+  width: 100%;
+}
